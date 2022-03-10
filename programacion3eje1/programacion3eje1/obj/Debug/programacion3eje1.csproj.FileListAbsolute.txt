@@ -1,0 +1,7 @@
+C:\Users\joacu\source\repos\programacion3eje1\programacion3eje1\bin\Debug\programacion3eje1.exe.config
+C:\Users\joacu\source\repos\programacion3eje1\programacion3eje1\bin\Debug\programacion3eje1.exe
+C:\Users\joacu\source\repos\programacion3eje1\programacion3eje1\bin\Debug\programacion3eje1.pdb
+C:\Users\joacu\source\repos\programacion3eje1\programacion3eje1\obj\Debug\programacion3eje1.csproj.AssemblyReference.cache
+C:\Users\joacu\source\repos\programacion3eje1\programacion3eje1\obj\Debug\programacion3eje1.csproj.CoreCompileInputs.cache
+C:\Users\joacu\source\repos\programacion3eje1\programacion3eje1\obj\Debug\programacion3eje1.exe
+C:\Users\joacu\source\repos\programacion3eje1\programacion3eje1\obj\Debug\programacion3eje1.pdb
